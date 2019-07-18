@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Video Player</string>
+    <string name="initial_time">0:00:00</string>
+</resources>
